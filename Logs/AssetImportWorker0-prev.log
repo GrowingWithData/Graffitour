@@ -1,21 +1,230 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 17134.1069; Version 1803; 64bit' Language: 'es' Physical Memory: 4000 MB
+OS: 'Windows 10 Home Single Language; OS build 22000.318; Version 2009; 64bit' Language: 'es' Physical Memory: 6081 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\2020.3.15f2\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2020.3.15f2\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/sebas/Desktop/Graffitour
+C:/Users/SANTIAGO/Desktop/Carpetas de git/Graffitour
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50630
-Successfully changed project path to: C:/Users/sebas/Desktop/Graffitour
-C:/Users/sebas/Desktop/Graffitour
+56336
+Successfully changed project path to: C:/Users/SANTIAGO/Desktop/Carpetas de git/Graffitour
+C:/Users/SANTIAGO/Desktop/Carpetas de git/Graffitour
 Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 93.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2 (6cf78cb77498)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/SANTIAGO/Desktop/Carpetas de git/Graffitour/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3040 MB
+    Driver:   27.20.11030.11001
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007123 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 77.86 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.280 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9281ms)
+		BeginReloadAssembly (142ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1176ms)
+			LoadAssemblies (137ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (462ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (93ms)
+			SetupLoadedEditorAssemblies (396ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (23ms)
+				ProcessInitializeOnLoadAttributes (209ms)
+				ProcessInitializeOnLoadMethodAttributes (70ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.046216 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.122 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3132ms)
+		BeginReloadAssembly (386ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (21ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (47ms)
+		EndReloadAssembly (2538ms)
+			LoadAssemblies (328ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (807ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (164ms)
+			SetupLoadedEditorAssemblies (951ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (126ms)
+				ProcessInitializeOnLoadAttributes (783ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (16ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (13ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 1.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1561 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.6 MB.
+System memory in use after: 72.7 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2066.
+Total: 8.008100 ms (FindLiveObjects: 0.676600 ms CreateObjectMapping: 0.152900 ms MarkObjects: 6.945000 ms  DeleteObjects: 0.228800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Blender/testeo de modelos/escalones.blend
+  artifactKey: Guid(5badea6588e2e534f8706383040b0b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/escalones.blend using Guid(5badea6588e2e534f8706383040b0b7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ce0219b4ebfc0183c73cb11db42ebc4') in 1.333662 seconds 
+  Import took 1.341137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000923 seconds.
+  path: Assets/Blender/testeo de modelos/escalones.fbx
+  artifactKey: Guid(f01ea791e61c70b4ca704cd57f2449b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/escalones.fbx using Guid(f01ea791e61c70b4ca704cd57f2449b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4fa566580ca8ad3a3dd06a147cd010') in 0.577359 seconds 
+  Import took 0.584328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000706 seconds.
+  path: Assets/Blender/testeo de modelos
+  artifactKey: Guid(03c9f0e0b1382f74385768fb58254711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos using Guid(03c9f0e0b1382f74385768fb58254711) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2fa5122702d61285eb7c0f83ebf9bd') in 0.017472 seconds 
+  Import took 0.023467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000844 seconds.
+  path: Assets/Blender/testeo de modelos/spray.fbx
+  artifactKey: Guid(3b3587a718f7c0f409169e09c9165d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.fbx using Guid(3b3587a718f7c0f409169e09c9165d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc1697e8a743d2ba34093528dd40dc9') in 0.058592 seconds 
+  Import took 0.069560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1552.580955 seconds.
+  path: Assets/Blender/testeo de modelos/spray.dae
+  artifactKey: Guid(477e0fdc67a1c314abc09807f4206f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.dae using Guid(477e0fdc67a1c314abc09807f4206f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00b03d77abdefb80f9e3d74f1fa96aee') in 0.136495 seconds 
+  Import took 0.217170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000648 seconds.
+  path: Assets/Blender/testeo de modelos/spray_GT.png
+  artifactKey: Guid(123428b3c21a0d341a87382d2d5d7273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray_GT.png using Guid(123428b3c21a0d341a87382d2d5d7273) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8562121d15a44329047dcd85c5647f05') in 0.101185 seconds 
+  Import took 0.111014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.266563 seconds.
+  path: Assets/Blender/testeo de modelos/spray.dae
+  artifactKey: Guid(477e0fdc67a1c314abc09807f4206f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.dae using Guid(477e0fdc67a1c314abc09807f4206f80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59f314dba385eb817a28ece98b13ff21') in 0.116545 seconds 
+  Import took 0.127107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 281.984815 seconds.
+  path: Assets/Animaciones/Controlador Personaje1.controller
+  artifactKey: Guid(21dab4b4b40024b42a2be1a669c3a7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animaciones/Controlador Personaje1.controller using Guid(21dab4b4b40024b42a2be1a669c3a7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232fe800dfc7bdc2b25599f8a8ac6376') in 0.199034 seconds 
+  Import took 0.206584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2313.684220 seconds.
+  path: Assets/Blender/testeo de modelos/spray.mat
+  artifactKey: Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.mat using Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f40e2c2faf1a77aa360832230cc9e01') in 0.091909 seconds 
+  Import took 0.105971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005164 seconds.
+  path: Assets/Blender/testeo de modelos/spray.mat
+  artifactKey: Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.mat using Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f40e2c2faf1a77aa360832230cc9e01') in 0.039028 seconds 
+  Import took 0.048703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 332.576187 seconds.
+  path: Assets/Blender/testeo de modelos/spray.mat
+  artifactKey: Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.mat using Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf60d5ecea823d007716da3eea2336f') in 0.049459 seconds 
+  Import took 0.060314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.803108 seconds.
+  path: Assets/Blender/testeo de modelos/spray.mat
+  artifactKey: Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Blender/testeo de modelos/spray.mat using Guid(07f43e8406a366940b365ede17538293) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faf41d3a9e1ff7a8bb90352315000d54') in 0.050943 seconds 
+  Import took 0.062749 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
