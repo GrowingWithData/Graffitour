@@ -1,5 +1,5 @@
 # Graffitour
  The game:
 
-proyecto PTE
+proyecto PTe
 
